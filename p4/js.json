@@ -1,0 +1,17 @@
+{
+"packages": [
+     {
+         "name": "awscli",
+         "dependencies": ["docutils", "rsa", "botocore"]
+     },     
+     {
+         "name": "rsa",
+         "dependencies": ["pyasn1"]
+     },
+     {
+          "name": "botocore", 
+          "dependencies": ["urllib3"]
+     }
+  ]
+
+}
