@@ -1,3 +1,2 @@
-# Project Name
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+# cs400
+This repository contains all course projects in course cs400 which is a basic Java programming course.
