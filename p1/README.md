@@ -7,3 +7,10 @@ For each data structure implementation class given to you that you wish to test,
 This is an Inheritance Diagram showing that the test methods are defined in the super class DataStructureADTTest, and that each sub-class must only define the createInstance() method. 
 
 Note: The arrow is from the sub-class to the super-class because it is the sub-class that knows it's super-class.  
+
+## General Information
+- Provide general information about your project here.
+- What problem does it (intend to) solve?
+- What is the purpose of your project?
+- Why did you undertake it?
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
